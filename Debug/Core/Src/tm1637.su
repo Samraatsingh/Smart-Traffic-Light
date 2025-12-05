@@ -1,0 +1,9 @@
+../Core/Src/tm1637.c:20:13:TM1637_Delay_us	24	static
+../Core/Src/tm1637.c:24:13:TM1637_Start	16	static
+../Core/Src/tm1637.c:31:13:TM1637_Stop	16	static
+../Core/Src/tm1637.c:41:13:TM1637_WriteByte	24	static
+../Core/Src/tm1637.c:63:6:TM1637_Init	40	static
+../Core/Src/tm1637.c:80:6:TM1637_DisplayDecimal	32	static
+../Core/Src/tm1637.c:104:6:TM1637_CountdownSeconds	40	static
+../Core/Src/tm1637.c:130:6:TM1637_DisplayString	32	static
+../Core/Src/tm1637.c:159:6:TM1637_SetBrightness	16	static
